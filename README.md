@@ -52,9 +52,11 @@ I am building a structured hands-on cybersecurity portfolio consisting of six ma
 3. 🛡️ **SOC & Detection Engineering Lab**
 4. 🚨 **Incident Response & Digital Forensics Lab**
 5. ⚙️ **Security Automation Toolkit**
-6. 🔐 **Food Manufacturing Cybersecurity Capstone**
+6. 🔐 **Cybersecurity Capstone**
 
 Each project focuses on practical implementation, testing, evidence collection, analysis, documentation, and lessons learned.
+
+📂 **Full roadmap and progress:** [cybersecurity-portfolio](https://github.com/ShayVishner/cybersecurity-portfolio)
 
 ### 🎓 Education
 
